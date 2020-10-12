@@ -4,19 +4,19 @@
 
 <p align="center">	
    <a href="https://www.linkedin.com/in/douglas-souza-5b6bab31/">
-      <img alt="Douglas Souza dos Anjos" src="https://img.shields.io/badge/-douglasdsda-8257E5?style=flat&logo=Linkedin&logoColor=white" />
+      <img alt="Douglas Souza dos Anjos" src="https://img.shields.io/badge/-douglasdsda-19bccd?style=flat&logo=Linkedin&logoColor=white" />
    </a>
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/douglasdsda/happy?color=774DD6">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/douglasdsda/happy?color=19bccd">
 
   <a aria-label="Completed" href="https://nextlevelweek.com/episodios/omnistack/edicao/3">
-    <img src="https://img.shields.io/badge/Happy-NLW 3.0-8257E5?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg=="></img>
+    <img src="https://img.shields.io/badge/Happy-NLW 3.0-19bccd?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg=="></img>
   </a>
   <a href="https://github.com/douglasdsda/proffy/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/douglasdsda/proffy?color=774DD6">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/douglasdsda/proffy?color=19bccd">
   </a> 
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-8257E5">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-19bccd">
   <a href="https://github.com/douglasdsda/happy/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/douglasdsda/happy?color=8257E5&logo=github">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/douglasdsda/happy?color=19bccd&logo=github">
   </a>
 </p>
 
