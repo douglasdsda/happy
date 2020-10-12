@@ -18,8 +18,8 @@ function OrphanagesMap () {
           </header>
 
           <footer>
-            <strong>Rio do Sul</strong>
-            <span>Santa Catarina</span>
+            <strong>Uberlândia</strong>
+            <span>Minas Gerais</span>
           </footer>
 
 
