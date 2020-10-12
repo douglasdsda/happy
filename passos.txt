@@ -1,0 +1,5 @@
+criar projeto com yarn:
+ - yarn create react-app web --template typescript
+
+criar projeto com npm:
+  - npx react-react-app web --template typescript
