@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://github.com/douglasdsda/happy/blob/master/.github/nlw3.jpg" alt="Happy" width="280"/>
+   <img src="https://github.com/douglasdsda/happy/blob/master/.github/Home.jpg" alt="Happy" width="280"/>
 </p>
 
 <p align="center">	
@@ -50,10 +50,10 @@
     </a>
 </p>
 <p align="center">
-    <a title="Download .fig Web" href="#">
+    <a title="Download .fig Web" href="https://www.figma.com/file/3xu66Mumqf7nS0K2LFb5Ur/Happy-Web-(Copy)?node-id=0%3A1">
         <img alt="Direct Download" src="https://img.shields.io/badge/Download Web-black?style=flat-square&logo=figma&logoColor=red" width="200px" />
     </a>
-    <a title="Download .fig Mobile" href="#">
+    <a title="Download .fig Mobile" href="https://www.figma.com/file/saaRH4CqbhdtJsBnRPmqx0/Happy-Mobile-(Copy)?node-id=0%3A1">
         <img alt="Direct Download" src="https://img.shields.io/badge/Download Mobile-black?style=flat-square&logo=figma&logoColor=red" width="215px"/>
     </a>
 </p>
@@ -68,17 +68,17 @@
 
 ### Web Screenshot
 <div style="display: flex; flex-direction: 'row'; align-items: 'center';">
-   <!-- <img src="https://github.com/douglasdsda/proffy/blob/master/.github/web-landing.png" width="400px"> -->
-    
+   <img src="https://github.com/douglasdsda/happy/blob/master/.github/Home.png" width="400px">
+   <img src="https://github.com/douglasdsda/happy/blob/master/.github/Mapa.png" width="400px">
+   <img src="https://github.com/douglasdsda/happy/blob/master/.github/cadadastro.png" width="400px">
 </div>
 
 ### Mobile Screenshot
-<!-- <div style="display: flex; flex-direction: 'row';">
-   <img src="https://github.com/douglasdsda/proffy/blob/master/.github/mobile-splash.png" width="180">
-   <img src="https://github.com/douglasdsda/proffy/blob/master/.github/mobile-onboarding.png" width="180">
-   <img src="https://github.com/douglasdsda/proffy/blob/master/.github/mobile-home.png" width="180">
-   <img src="https://github.com/douglasdsda/proffy/blob/master/.github/mobile-favoritos.png" width="180">
-</div> -->
+<div style="display: flex; flex-direction: 'row';">
+   <img src="https://github.com/douglasdsda/proffy/blob/master/.github/web1.png" width="180">
+   <img src="https://github.com/douglasdsda/proffy/blob/master/.github/web2.png" width="180">
+   <img src="https://github.com/douglasdsda/proffy/blob/master/.github/web3.png" width="180">
+</div>
 
 # :computer: Technologies
 This project was made using the follow technologies:
