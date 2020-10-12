@@ -74,9 +74,9 @@
 
 ### Mobile Screenshot
 <div style="display: flex; flex-direction: 'row';">
-   <img style="flex: 1" src="https://github.com/douglasdsda/happy/blob/master/.github/web1.png"  height="300px" >
-   <img style="flex: 1" src="https://github.com/douglasdsda/happy/blob/master/.github/web3.png"  height="300px" >
-     <img style="flex: 1" src="https://github.com/douglasdsda/happy/blob/master/.github/web2.png"  height="300px"  >
+   <img style="width: 30% !important"  src="https://github.com/douglasdsda/happy/blob/master/.github/web1.png"  height="300px" >
+   <img style="width: 30% !important" src="https://github.com/douglasdsda/happy/blob/master/.github/web3.png"  height="300px" >
+     <img style="width: 30% !important"  src="https://github.com/douglasdsda/happy/blob/master/.github/web2.png"  height="300px"  >
 </div>
 
 # :computer: Technologies
