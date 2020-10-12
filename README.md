@@ -68,16 +68,16 @@
 
 ### Web Screenshot
 <div style="display: flex; flex-direction: 'row'; align-items: 'center';">
-   <img src="https://github.com/douglasdsda/happy/blob/master/.github/Home.png" width="400px">
+   <img src="https://github.com/douglasdsda/happy/blob/master/.github/Home.png" width="100%">
    <img src="https://github.com/douglasdsda/happy/blob/master/.github/Mapa.png" width="400px">
    <img src="https://github.com/douglasdsda/happy/blob/master/.github/cadadastro.png" width="400px">
 </div>
 
 ### Mobile Screenshot
 <div style="display: flex; flex-direction: 'row';">
-   <img src="https://github.com/douglasdsda/proffy/blob/master/.github/web1.png" width="180">
-   <img src="https://github.com/douglasdsda/proffy/blob/master/.github/web2.png" width="180">
-   <img src="https://github.com/douglasdsda/proffy/blob/master/.github/web3.png" width="180">
+   <img src="https://github.com/douglasdsda/happy/blob/master/.github/web1.png" width="180">
+   <img src="https://github.com/douglasdsda/happy/blob/master/.github/web2.png" width="180">
+   <img src="https://github.com/douglasdsda/happy/blob/master/.github/web3.png" width="180">
 </div>
 
 # :computer: Technologies
