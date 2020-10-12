@@ -68,15 +68,15 @@
 
 ### Web Screenshot
 <div style="display: flex; flex-direction: 'row'; align-items: 'center';">
-   <img style="flex: 1"  src="https://github.com/douglasdsda/happy/blob/master/.github/Mapa.png" heigth="300px" >
-   <img style="flex: 1" src="https://github.com/douglasdsda/happy/blob/master/.github/cadadastro.png" heigth="300px" >
+   <img style="flex: 1"  src="https://github.com/douglasdsda/happy/blob/master/.github/Mapa.png" height="300px" >
+   <img style="flex: 1" src="https://github.com/douglasdsda/happy/blob/master/.github/cadadastro.png" height="300px" >
 </div>
 
 ### Mobile Screenshot
 <div style="display: flex; flex-direction: 'row';">
-   <img style="flex: 1" src="https://github.com/douglasdsda/happy/blob/master/.github/web1.png"  heigth="300px"  width="300">
-   <img style="flex: 1" src="https://github.com/douglasdsda/happy/blob/master/.github/web3.png"  heigth="300px"  width="300">
-     <img style="flex: 1" src="https://github.com/douglasdsda/happy/blob/master/.github/web2.png"  heigth="300px"  width="300px">
+   <img style="flex: 1" src="https://github.com/douglasdsda/happy/blob/master/.github/web1.png"  height="300px" >
+   <img style="flex: 1" src="https://github.com/douglasdsda/happy/blob/master/.github/web3.png"  height="300px" >
+     <img style="flex: 1" src="https://github.com/douglasdsda/happy/blob/master/.github/web2.png"  height="300px"  >
 </div>
 
 # :computer: Technologies
