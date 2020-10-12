@@ -2,7 +2,7 @@
    <img src="https://github.com/douglasdsda/happy/blob/master/.github/nlw3.jpg" alt="Happy" width="280"/>
 </p>
 
-<!-- <p align="center">	
+<p align="center">	
    <a href="https://www.linkedin.com/in/douglas-souza-5b6bab31/">
       <img alt="Douglas Souza dos Anjos" src="https://img.shields.io/badge/-douglasdsda-8257E5?style=flat&logo=Linkedin&logoColor=white" />
    </a>
@@ -18,7 +18,7 @@
   <a href="https://github.com/douglasdsda/happy/stargazers">
     <img alt="Stargazers" src="https://img.shields.io/github/stars/douglasdsda/happy?color=8257E5&logo=github">
   </a>
-</p> -->
+</p>
 
 > :rocket: Project made to happy, made in Next Level Week #3 @Rocketseat
 
