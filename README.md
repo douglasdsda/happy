@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://github.com/douglasdsda/happy/blob/master/.github/Home.png" alt="Happy" width="280"/>
+   <img src="https://github.com/douglasdsda/happy/blob/master/.github/Home.png" alt="Happy" width="100%"/>
 </p>
 
 <p align="center">	
@@ -58,13 +58,13 @@
     </a>
 </p>
 
-### Gif
+<!-- ### Gif
 <div style="display: flex; flex-direction: 'row'; align-items: 'center';">
      <img src="https://github.com/douglasdsda/happy/blob/master/.github/Home.png">
-</div>
+</div> -->
 
 ### Site
- Em desenvolvimento...
+link: https://happy-snowy.vercel.app/app
 
 ### Web Screenshot
 <div style="display: flex; flex-direction: 'row'; align-items: 'center';">
@@ -74,9 +74,9 @@
 
 ### Mobile Screenshot
 <div style="display: flex; flex-direction: 'row';">
-   <img style="width: 30% !important"  src="https://github.com/douglasdsda/happy/blob/master/.github/web1.png"  height="300px" >
-   <img style="width: 30% !important" src="https://github.com/douglasdsda/happy/blob/master/.github/web3.png"  height="300px" >
-     <img style="width: 30% !important"  src="https://github.com/douglasdsda/happy/blob/master/.github/web2.png"  height="300px"  >
+   <img src="https://github.com/douglasdsda/happy/blob/master/.github/web1.png"  height="300px" >
+   <img style="width: auto" src="https://github.com/douglasdsda/happy/blob/master/.github/web3.png"  height="300px" >
+
 </div>
 
 # :computer: Technologies
