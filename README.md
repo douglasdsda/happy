@@ -60,7 +60,7 @@
 
 ### Gif
 <div style="display: flex; flex-direction: 'row'; align-items: 'center';">
-     <img src="https://github.com/douglasdsda/happy/blob/master/.github/nlw3.jpg">
+     <img src="https://github.com/douglasdsda/happy/blob/master/.github/Home.jpg">
 </div>
 
 ### Site
