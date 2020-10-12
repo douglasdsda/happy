@@ -20,7 +20,7 @@
   </a>
 </p> -->
 
-> :rocket: Project made to happy, made in Next Level Week #2 @Rocketseat
+> :rocket: Project made to happy, made in Next Level Week #3 @Rocketseat
 
 <div align="center">
   <sub>The NLW #3 project. Built with ❤︎ by
