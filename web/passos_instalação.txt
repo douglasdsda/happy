@@ -1,0 +1,14 @@
+pacote de icons
+
+yarn add react-icons
+
+rotas
+
+yarn add react-router-dom
+
+yarn add @types/react-router-dom -D
+
+biblioteca de mapa
+
+yarn add leaflet react-leaflet
+yarn add @types/react-leaflet -D
