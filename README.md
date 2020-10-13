@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Happy-NLW 3.0-19bccd?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg=="></img>
   </a>
   <a href="https://github.com/douglasdsda/proffy/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/douglasdsda/proffy?color=19bccd">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/douglasdsda/happy?color=19bccd">
   </a> 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-19bccd">
   <a href="https://github.com/douglasdsda/happy/stargazers">
@@ -72,12 +72,12 @@ link: https://happy-snowy.vercel.app/app
    <img style="flex: 1" src="https://github.com/douglasdsda/happy/blob/master/.github/cadadastro.png" height="300px" >
 </div>
 
-### Mobile Screenshot
+<!-- ### Mobile Screenshot
 <div style="display: flex; flex-direction: 'row';">
    <img src="https://github.com/douglasdsda/happy/blob/master/.github/web1.png"  height="300px" >
    <img style="width: auto" src="https://github.com/douglasdsda/happy/blob/master/.github/web3.png"  height="300px" >
 
-</div>
+</div> -->
 
 # :computer: Technologies
 This project was made using the follow technologies:
