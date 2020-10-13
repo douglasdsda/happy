@@ -1,0 +1,17 @@
+instalar express
+
+yarn add express
+yarn add @types/express -D
+
+typescript
+yarn add typescript -D
+
+criar arquivo de configuracao typescript
+yarn tsc --init
+
+conseguir executar typescript
+yarn add ts-node-dev -D
+
+yarn add typeorm sqlite3
+
+

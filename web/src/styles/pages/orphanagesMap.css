@@ -63,6 +63,10 @@
   background: #17d6eb;
 }
 
+#page-map .icone-list {
+  display:none;
+}
+
 @media (min-width: 450px) {
   #page-map .menu {
     display: none;
@@ -73,6 +77,10 @@
   #page-map aside {
     display: none;
   }
+  #page-map .icone-list {
+    display:flex;
+  }
+  
 
   #page-map aside.ative {
     display: flex;
