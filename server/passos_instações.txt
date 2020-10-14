@@ -12,6 +12,33 @@ yarn tsc --init
 conseguir executar typescript
 yarn add ts-node-dev -D
 
+instalar sqlite3 e typeorm
 yarn add typeorm sqlite3
+
+criar uma migration
+yarn typeorm migration:create -n create_orphanages
+yarn typeorm migration:create -n create_images
+
+desfazer migration
+yarn typeorm migration:revert
+
+executar/alterações migrations
+yarn typeorm migration:run
+
+pacote para configurar arquivos
+yarn add multer
+yarn add @types/multer -D
+
+
+yarn add express-async-errors
+
+
+validação de campos de entrada
+yarn add yup
+yarn add @types/yup -D
+
+yarn add cors 
+yarn add @types/cors -D
+
 
 
