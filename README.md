@@ -110,11 +110,6 @@ $ yarn install
 # Run Aplication
 $ yarn start
 
-#knex create migration
-$ yarn knex:migrate
-
-#knex create rollback
-$ yarn knex:rollback
 
 ```
 Access API at http://localhost:3333/

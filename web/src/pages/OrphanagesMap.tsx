@@ -1,11 +1,12 @@
 import React, { useCallback, useState } from "react";
 import { Link } from "react-router-dom";
-import { FiList, FiPlus } from "react-icons/fi";
+import { FiArrowRight, FiList, FiPlus } from "react-icons/fi";
 import map from "../images/Map.svg";
 import "../styles/pages/landing.css";
 import "../styles/pages/orphanagesMap.css";
 import "leaflet/dist/leaflet.css";
-import { Map, TileLayer } from "react-leaflet";
+import { Map, TileLayer, Marker, Popup } from "react-leaflet";
+import Leaflet from "leaflet";
 
 function OrphanagesMap() {
   const [sideAtive, setSideAtive] = useState(false);
@@ -13,6 +14,13 @@ function OrphanagesMap() {
   const handleAtive = useCallback(() => {
     setSideAtive(!sideAtive);
   }, [sideAtive]);
+
+  const mapIcon = Leaflet.icon({
+    iconUrl: map,
+    iconSize: [58,68],
+    iconAnchor: [29, 68],
+    popupAnchor: [170, 2]
+  })
 
   return (
     <div id="page-map" className={sideAtive ? "ative" : ""}>
@@ -47,6 +55,15 @@ function OrphanagesMap() {
         style={{ width: "100%", height: "100%" }}
       >
         <TileLayer url="https://a.tile.openstreetmap.org/{z}/{x}/{y}.png" />
+        <Marker
+        icon={mapIcon}
+          position={[-18.9138398, -48.2756055]}
+        >
+          <Popup closeButton={false} minWidth={240} maxWidth={240}  className='map-popup'>
+              Lar das Meninas
+              <Link to="#"><FiArrowRight size={20} color="FFF"  /></Link>
+          </Popup>
+        </Marker>
       </Map>
 
       <Link to="/" className="create-orphanage">
