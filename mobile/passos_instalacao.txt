@@ -1,0 +1,23 @@
+
+ajustar porta
+adb reverse tcp:3333 tcp:3333
+
+mpa
+expo install react-native-maps
+
+fonts
+expo install @expo-google-fonts/nunito expo-font
+
+pacote de gesto e rotas
+
+yarn add @react-navigation/native
+yarn add @react-navigation/stack
+
+expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+
+adicionar 
+yarn add axios
+
+
+pacote de imagens
+expo install expo-image-picker
