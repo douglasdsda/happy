@@ -2,10 +2,9 @@ import { Request, Response } from "express";
 import { getRepository } from "typeorm";
 import Orphanage from "../models/Orphanage";
 import orphanagesView from "../views/orphanages_view";
-import * as Yup from "yup";
 
 export default {
-  async create(request: Request, response: Response) {
+  async create(request: Request, response: Response) : Promise<Response | void> {
     const {
       name,
       latitude,
@@ -15,47 +14,25 @@ export default {
       opening_hours,
       open_on_weekends,
     } = request.body;
+    const images = request.files as Express.Multer.File[];
 
-    const orphanageRepository = getRepository(Orphanage);
-
-    const requestImages = request.files as Express.Multer.File[];
-
-    const images = requestImages.map((image) => {
-      return { path: image.filename };
-    });
-
-    const data = {
+    const orphanagesRepository = getRepository(Orphanage);
+    const orphanage = orphanagesRepository.create({
       name,
       latitude,
       longitude,
       about,
       instructions,
       opening_hours,
-      open_on_weekends: open_on_weekends === 'true',
-      images
-    }
-
-    const shema = Yup.object().shape({
-      name: Yup.string().required("Nome obrigatorio"),
-      latitude: Yup.number().required(),
-      longitude: Yup.number().required(),
-      about: Yup.string().required().max(300),
-      instructions: Yup.string().required(),
-      opening_hours: Yup.string().required(),
-      open_on_weekends: Yup.boolean().required(),
-      images: Yup.array(Yup.object().shape({
-        path: Yup.string().required()
-      })
-      )
+      open_on_weekends: open_on_weekends == 'true',
+      images: images.map(image => ({
+        path: image.filename,
+      })),
     });
 
-    await shema.validate(data , { abortEarly: false });
+    await orphanagesRepository.save(orphanage);
 
-    const orphanage = orphanageRepository.create(data);
-
-    await orphanageRepository.save(orphanage);
-
-    return response.status(201).json(orphanage);
+    response.status(201).json(orphanage);
   },
   async index(request: Request, response: Response) {
     const orphanageRepository = getRepository(Orphanage);

@@ -1,20 +1,3 @@
-import express from "express";
-import path from "path";
-import cors from "cors";
-import "express-async-errors";
+import app from './app';
 
-import "./database/connection";
-import routes from  "./routes";
-import errorHandle from  "./errors/handler";
-
-const app = express();
-
-app.use(express.json());
-app.use(cors());
-app.use(routes);
-app.use('/uploads', express.static(path.join(__dirname, '..', 'tmp' ,'uploads')));
-app.use(errorHandle);
-
-
-
-app.listen(3333);
+app.listen(process.env.APP_PORT);
